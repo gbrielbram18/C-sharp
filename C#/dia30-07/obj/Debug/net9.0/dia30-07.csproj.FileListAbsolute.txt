@@ -21,3 +21,10 @@ D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\obj\Debug\net9.0\dia30-0
 D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\obj\Debug\net9.0\dia30-07.dll
 D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\obj\Debug\net9.0\refint\dia30-07.dll
 D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\obj\Debug\net9.0\dia30-07.pdb
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\bin\Debug\net9.0\dia30-07.exe
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\bin\Debug\net9.0\dia30-07.deps.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\bin\Debug\net9.0\dia30-07.runtimeconfig.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\bin\Debug\net9.0\dia30-07.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\bin\Debug\net9.0\dia30-07.pdb
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\obj\Debug\net9.0\dia30-07.genruntimeconfig.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\obj\Debug\net9.0\ref\dia30-07.dll
