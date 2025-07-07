@@ -1,0 +1,15 @@
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exercios\atividade3\bin\Debug\net9.0\atividade3.exe
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exercios\atividade3\bin\Debug\net9.0\atividade3.deps.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exercios\atividade3\bin\Debug\net9.0\atividade3.runtimeconfig.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exercios\atividade3\bin\Debug\net9.0\atividade3.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exercios\atividade3\bin\Debug\net9.0\atividade3.pdb
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exercios\atividade3\obj\Debug\net9.0\atividade3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exercios\atividade3\obj\Debug\net9.0\atividade3.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exercios\atividade3\obj\Debug\net9.0\atividade3.AssemblyInfo.cs
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exercios\atividade3\obj\Debug\net9.0\atividade3.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exercios\atividade3\obj\Debug\net9.0\atividade3.sourcelink.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exercios\atividade3\obj\Debug\net9.0\atividade3.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exercios\atividade3\obj\Debug\net9.0\refint\atividade3.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exercios\atividade3\obj\Debug\net9.0\atividade3.pdb
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exercios\atividade3\obj\Debug\net9.0\atividade3.genruntimeconfig.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exercios\atividade3\obj\Debug\net9.0\ref\atividade3.dll
