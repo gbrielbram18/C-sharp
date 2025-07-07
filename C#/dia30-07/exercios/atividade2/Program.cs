@@ -134,7 +134,7 @@ atribuir o resultado para uma variável C e mostrar seu conteúdo na tela.
 
 
 
-/*
+
 int A = int.Parse(Console.ReadLine()); // int.Parse() para interpretar a entrada como um inteiro
 int B = int.Parse(Console.ReadLine());
 int C; // Declaração sem atribuição de valor
@@ -148,4 +148,3 @@ if ( A == B ) {
 Console.WriteLine( C );
 
 
-*/
