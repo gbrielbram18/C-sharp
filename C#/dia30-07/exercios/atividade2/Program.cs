@@ -119,3 +119,33 @@ if ( soma < C ) {
 }
 
 */
+
+
+//exercicio 2.5
+
+
+
+/*
+Faça um algoritmo que leia dois valores inteiros A e B se os valores forem iguais deverá se
+somar os dois, caso contrário multiplique A por B. Ao final de qualquer um dos cálculos deve-se
+atribuir o resultado para uma variável C e mostrar seu conteúdo na tela.
+
+*/
+
+
+
+/*
+int A = int.Parse(Console.ReadLine()); // int.Parse() para interpretar a entrada como um inteiro
+int B = int.Parse(Console.ReadLine());
+int C; // Declaração sem atribuição de valor
+
+if ( A == B ) {
+    C = A + B;
+} else {
+    C = A * B;
+}
+
+Console.WriteLine( C );
+
+
+*/
