@@ -149,6 +149,28 @@ regressiva de 10 até 1 e exiba uma mensagem como "Fogo!" ao final.
 
 */
 
+/*
+int regress = 10;
+int cont = 1;
+int resultado = cont - regress;
+
+do
+{
+    Console.WriteLine(regress);
+    resultado = cont - regress;
+    regress--;
+
+} while (resultado <= 0);
+
+if (resultado >= 0) 
+{
+    Console.WriteLine("fogo!!!🔥🔥🔥🔥🔥🔥>");
+}
+
+*/
+
+
+
 
 
 

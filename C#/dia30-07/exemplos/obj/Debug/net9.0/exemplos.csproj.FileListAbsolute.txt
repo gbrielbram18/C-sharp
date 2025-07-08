@@ -1,0 +1,15 @@
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exemplos\bin\Debug\net9.0\exemplos.exe
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exemplos\bin\Debug\net9.0\exemplos.deps.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exemplos\bin\Debug\net9.0\exemplos.runtimeconfig.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exemplos\bin\Debug\net9.0\exemplos.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exemplos\bin\Debug\net9.0\exemplos.pdb
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exemplos\obj\Debug\net9.0\exemplos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exemplos\obj\Debug\net9.0\exemplos.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exemplos\obj\Debug\net9.0\exemplos.AssemblyInfo.cs
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exemplos\obj\Debug\net9.0\exemplos.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exemplos\obj\Debug\net9.0\exemplos.sourcelink.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exemplos\obj\Debug\net9.0\exemplos.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exemplos\obj\Debug\net9.0\refint\exemplos.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exemplos\obj\Debug\net9.0\exemplos.pdb
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exemplos\obj\Debug\net9.0\exemplos.genruntimeconfig.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\dia30-07\exemplos\obj\Debug\net9.0\ref\exemplos.dll
