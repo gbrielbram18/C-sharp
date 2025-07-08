@@ -84,7 +84,7 @@ Solicite ao usuário um número inteiro e mostre a tabuada desse número, do 1 a
 
 */
 
-
+/*
 Console.WriteLine (" digite um numero para sua tabuada");
 int x = int.Parse(Console.ReadLine());
 
@@ -101,5 +101,68 @@ do
 
 
 } while (cont <= 11);
+
+
+*/
+
+
+// exercicio 3.4
+
+
+/*
+
+Peça que o usuário digite uma senha. Repita a solicitação enquanto a 
+senha estiver incorreta. Compare a senha inserida pelo usuário com uma 
+senha predefinida em um string, ex:
+string senha = “1234”
+
+*/
+
+
+
+/*
+Console.WriteLine(" digite sua senha: ");
+int senha1 = int.Parse(Console.ReadLine());
+int senhaC = 3008;
+
+
+
+    if (senha1 == senhaC)
+    {
+        Console.WriteLine("sua senha esta correta");
+
+    }
+    else
+    {
+        Console.WriteLine("a senha digitada esta incorreta, tente novamente.");
+    }
+
+*/
+
+
+//exercicio 3.5
+
+/*
+
+Escreva um programa que faça a contagem 
+regressiva de 10 até 1 e exiba uma mensagem como "Fogo!" ao final.
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
