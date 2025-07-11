@@ -1,0 +1,15 @@
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\exercios\exercicio4\bin\Debug\net9.0\exercicio4.exe
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\exercios\exercicio4\bin\Debug\net9.0\exercicio4.deps.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\exercios\exercicio4\bin\Debug\net9.0\exercicio4.runtimeconfig.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\exercios\exercicio4\bin\Debug\net9.0\exercicio4.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\exercios\exercicio4\bin\Debug\net9.0\exercicio4.pdb
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\exercios\exercicio4\obj\Debug\net9.0\exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\exercios\exercicio4\obj\Debug\net9.0\exercicio4.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\exercios\exercicio4\obj\Debug\net9.0\exercicio4.AssemblyInfo.cs
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\exercios\exercicio4\obj\Debug\net9.0\exercicio4.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\exercios\exercicio4\obj\Debug\net9.0\exercicio4.sourcelink.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\exercios\exercicio4\obj\Debug\net9.0\exercicio4.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\exercios\exercicio4\obj\Debug\net9.0\refint\exercicio4.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\exercios\exercicio4\obj\Debug\net9.0\exercicio4.pdb
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\exercios\exercicio4\obj\Debug\net9.0\exercicio4.genruntimeconfig.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\exercios\exercicio4\obj\Debug\net9.0\ref\exercicio4.dll

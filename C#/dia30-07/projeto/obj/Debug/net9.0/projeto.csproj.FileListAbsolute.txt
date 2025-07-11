@@ -1,0 +1,15 @@
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\projeto\bin\Debug\net9.0\projeto.exe
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\projeto\bin\Debug\net9.0\projeto.deps.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\projeto\bin\Debug\net9.0\projeto.runtimeconfig.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\projeto\bin\Debug\net9.0\projeto.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\projeto\bin\Debug\net9.0\projeto.pdb
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\projeto\obj\Debug\net9.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\projeto\obj\Debug\net9.0\projeto.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\projeto\obj\Debug\net9.0\projeto.AssemblyInfo.cs
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\projeto\obj\Debug\net9.0\projeto.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\projeto\obj\Debug\net9.0\projeto.sourcelink.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\projeto\obj\Debug\net9.0\projeto.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\projeto\obj\Debug\net9.0\refint\projeto.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\projeto\obj\Debug\net9.0\projeto.pdb
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\projeto\obj\Debug\net9.0\projeto.genruntimeconfig.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\projeto\obj\Debug\net9.0\ref\projeto.dll

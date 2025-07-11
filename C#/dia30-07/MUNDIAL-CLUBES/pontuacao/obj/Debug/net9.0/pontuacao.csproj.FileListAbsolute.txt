@@ -1,0 +1,15 @@
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\MUNDIAL-CLUBES\pontuacao\bin\Debug\net9.0\pontuacao.exe
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\MUNDIAL-CLUBES\pontuacao\bin\Debug\net9.0\pontuacao.deps.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\MUNDIAL-CLUBES\pontuacao\bin\Debug\net9.0\pontuacao.runtimeconfig.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\MUNDIAL-CLUBES\pontuacao\bin\Debug\net9.0\pontuacao.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\MUNDIAL-CLUBES\pontuacao\bin\Debug\net9.0\pontuacao.pdb
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\MUNDIAL-CLUBES\pontuacao\obj\Debug\net9.0\pontuacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\MUNDIAL-CLUBES\pontuacao\obj\Debug\net9.0\pontuacao.AssemblyInfoInputs.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\MUNDIAL-CLUBES\pontuacao\obj\Debug\net9.0\pontuacao.AssemblyInfo.cs
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\MUNDIAL-CLUBES\pontuacao\obj\Debug\net9.0\pontuacao.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\MUNDIAL-CLUBES\pontuacao\obj\Debug\net9.0\pontuacao.sourcelink.json
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\MUNDIAL-CLUBES\pontuacao\obj\Debug\net9.0\pontuacao.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\MUNDIAL-CLUBES\pontuacao\obj\Debug\net9.0\refint\pontuacao.dll
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\MUNDIAL-CLUBES\pontuacao\obj\Debug\net9.0\pontuacao.pdb
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\MUNDIAL-CLUBES\pontuacao\obj\Debug\net9.0\pontuacao.genruntimeconfig.cache
+D:\Users\Aluno\Documents\gabriel C#\C-sharp\C#\C-sharp\C#\dia30-07\MUNDIAL-CLUBES\pontuacao\obj\Debug\net9.0\ref\pontuacao.dll
