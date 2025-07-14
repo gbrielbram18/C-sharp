@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\caixa_eletronico\bin\Debug\net10.0\caixa_eletronico.exe
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\caixa_eletronico\bin\Debug\net10.0\caixa_eletronico.deps.json
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\caixa_eletronico\bin\Debug\net10.0\caixa_eletronico.runtimeconfig.json
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\caixa_eletronico\bin\Debug\net10.0\caixa_eletronico.dll
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\caixa_eletronico\bin\Debug\net10.0\caixa_eletronico.pdb
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\caixa_eletronico\obj\Debug\net10.0\caixa_eletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\caixa_eletronico\obj\Debug\net10.0\caixa_eletronico.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\caixa_eletronico\obj\Debug\net10.0\caixa_eletronico.AssemblyInfo.cs
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\caixa_eletronico\obj\Debug\net10.0\caixa_eletronico.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\caixa_eletronico\obj\Debug\net10.0\caixa_eletronico.sourcelink.json
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\caixa_eletronico\obj\Debug\net10.0\caixa_eletronico.dll
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\caixa_eletronico\obj\Debug\net10.0\refint\caixa_eletronico.dll
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\caixa_eletronico\obj\Debug\net10.0\caixa_eletronico.pdb
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\caixa_eletronico\obj\Debug\net10.0\caixa_eletronico.genruntimeconfig.cache
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\caixa_eletronico\obj\Debug\net10.0\ref\caixa_eletronico.dll
