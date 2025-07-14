@@ -1,97 +1,143 @@
-﻿double saldo =0 ;
+﻿/**
+ * Escrever um código que possua um saldo inicial de uma conta e ofereça, 
+   através de um menu exibido no console, as seguintes opções para o usuário:
+
+- Exibir saldo: exibe o saldo atual no console
+- Depositar: solicita um valor (double) ao usuário e acresce ao saldo
+- Sacar: solicita um valor (double) ao usuário e decresce do saldo
+- Extrato: exibe as transações que foram realizadas, separadas por vírgula
+- Sair: termina a execução do programa
+*/
+
+double saldo = 0;
 int opcao;
 
-do{
-    
+do
+{
     ExibirMenu();
 
-    //opção == int.Parse (Console.Readline());
-    if (int.TryParse(Console.Readline(),out opcao))
+    if (int.TryParse(Console.ReadLine(), out opcao))
     {
-        
-        Console.WriteLine($"Opção selecionada {opcao}");
-        Console.ReadKey();
-
         switch (opcao)
         {
-            //exibir saldo
             case 1:
-            Console,WriteLine("Exibir saldo");
-            console.ReadKey();
-            break;
-            // deposito
+                ExibirSaldo();
+                Console.ReadKey();
+                break;
             case 2:
-            Console.WriteLine("Depositar");
-            console.ReadKey();
-            break;
-            //Sacar
-            case:3:
-            Console.WriteLine("Sacar");
-            console.ReadKey();
-            break;
-            //extrato
+                Depositar();
+                Console.ReadKey();
+                break;
+            case 3:
+                Console.WriteLine("Sacar");
+                Console.ReadKey();
+                break;
             case 4:
-            Console.WriteLine("Extrato");
-            console.ReadKey();
-            break;
-            // sair
+                Console.WriteLine("Extrato");
+                Console.ReadKey();
+                break;
             case 5:
-            Console.WriteLine("Sair");
-            console.ReadKey();
-            break;
-
+                Console.WriteLine("Sair");
+                Console.ReadKey();
+                break;
             default:
-                Console.WriteLine("alternativa Invalida.");
-            break;
+                Console.WriteLine("Escolha uma opção válida.");
+                break;
         }
-
     }
     else
     {
-        Console.WriteLine($"a {opcao} Não e uma opção valida, tente novamente.");
+        // Não conseguiu converter
+        Console.WriteLine($"Não é uma opção válida. Tente novamente.");
         Console.ReadKey();
     }
-    
-} while (opcao !=5);
 
+} while (opcao != 5);
 
-void ExibirMenu(){
+void ExibirMenu()
+{
+    Console.Clear();
+    Console.WriteLine("Selecione uma das opções abaixo:");
+    Console.WriteLine("1 - Saldo");
+    Console.WriteLine("2 - Depositar");
+    Console.WriteLine("3 - Sacar");
+    Console.WriteLine("4 - Extrato");
+    Console.WriteLine("5 - Sair");
+}
 
+void ExibirSaldo()
+{
+    if (saldo < 0 )
+    {
 
-Console.WriteLine("Selecione uma das opções abaixo: ");
-Console.WriteLine(" 1 - Saldo ");
-Console.WriteLine(" 2 - Depositar");
-Console.WriteLine(" 3 - Sacar");
-Console.WriteLine(" 4 - Extrato");
-Console.WriteLine(" 5 - Sair");
+    Console.WriteLine($"Saldo atual >R$ {saldo } 😰")
+    } else{
+
+    Console.WriteLine($"Saldo atual > R$ {saldo} 💵");
+    }
+
 
 }
 
-
-
-void ExibirSaldo( ){
-
-Console.WriteLine($"Saldo atual > R$ {saldo} ")
-
-}
-
-void ExibirDeposito()
+void Depositar()
 {
     double deposito;
-    if (double.TryParse(Console.Readline(),out deposito));
 
-
-
-
+    if (double.TryParse(Console.ReadLine(), out deposito))
+    {
+        saldo = saldo + deposito;
+    }
+    else
+    {
+        Console.WriteLine("Valor para depósito inválido.");
+    }
 }
-
 
 void Sacar()
 {
 
+    double saque;
+
+  if( double.TryParse(Console.ReadLine(), out saque))
+{
+    saldo = saldo - saque
+
+}
+}
+
+void Extrato()
+
+{
+
+
+string caminho = "extrato.txt" ; // caminho do arquivo a ser lido/ escrito 
+    string conteudo = File.ReadAllText(caminho); // lê o conteudo de arquivo 
+
+    
+    string[] transacoes = conteudo.Split("\",""\");
+    for(int cont = 0; cont < transacoes[cont]){
+        Console.WriteLine();
+    }
+}
+
+
+
+void SalvarDeposito(double paramDeposito){
+
+
+    string caminho = "extrato.txt" ; // caminho do arquivo a ser lido/ escrito 
+    string conteudo = File.ReadAllText(caminho); // lê o conteudo de arquivo 
+
+    //escreve o conteudo no arquivo, concatenando com o conteudo atual
+    File.WriteAllText(caminho + "\"saque: "" Este texto foi saçvo atravez do c-sharp\",");
+
 
 }
 
-void Extrato(){
+void SalvarSaque (double paramSaque){
 
-} 
+
+
+}
+
+
