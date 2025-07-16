@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\projeto_horta\bin\Debug\net10.0\projeto_horta.exe
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\projeto_horta\bin\Debug\net10.0\projeto_horta.deps.json
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\projeto_horta\bin\Debug\net10.0\projeto_horta.runtimeconfig.json
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\projeto_horta\bin\Debug\net10.0\projeto_horta.dll
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\projeto_horta\bin\Debug\net10.0\projeto_horta.pdb
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\projeto_horta\obj\Debug\net10.0\projeto_horta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\projeto_horta\obj\Debug\net10.0\projeto_horta.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\projeto_horta\obj\Debug\net10.0\projeto_horta.AssemblyInfo.cs
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\projeto_horta\obj\Debug\net10.0\projeto_horta.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\projeto_horta\obj\Debug\net10.0\projeto_horta.sourcelink.json
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\projeto_horta\obj\Debug\net10.0\projeto_horta.dll
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\projeto_horta\obj\Debug\net10.0\refint\projeto_horta.dll
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\projeto_horta\obj\Debug\net10.0\projeto_horta.pdb
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\projeto_horta\obj\Debug\net10.0\projeto_horta.genruntimeconfig.cache
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\projeto_horta\obj\Debug\net10.0\ref\projeto_horta.dll

@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\programacao_orientada\bin\Debug\net10.0\programacao_orientada.exe
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\programacao_orientada\bin\Debug\net10.0\programacao_orientada.deps.json
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\programacao_orientada\bin\Debug\net10.0\programacao_orientada.runtimeconfig.json
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\programacao_orientada\bin\Debug\net10.0\programacao_orientada.dll
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\programacao_orientada\bin\Debug\net10.0\programacao_orientada.pdb
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\programacao_orientada\obj\Debug\net10.0\programacao_orientada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\programacao_orientada\obj\Debug\net10.0\programacao_orientada.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\programacao_orientada\obj\Debug\net10.0\programacao_orientada.AssemblyInfo.cs
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\programacao_orientada\obj\Debug\net10.0\programacao_orientada.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\programacao_orientada\obj\Debug\net10.0\programacao_orientada.sourcelink.json
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\programacao_orientada\obj\Debug\net10.0\programacao_orientada.dll
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\programacao_orientada\obj\Debug\net10.0\refint\programacao_orientada.dll
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\programacao_orientada\obj\Debug\net10.0\programacao_orientada.pdb
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\programacao_orientada\obj\Debug\net10.0\programacao_orientada.genruntimeconfig.cache
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\programacao_orientada\obj\Debug\net10.0\ref\programacao_orientada.dll

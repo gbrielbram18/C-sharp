@@ -29,7 +29,7 @@ do
                 Console.ReadKey();
                 break;
             case 3:
-                Console.WriteLine("Sacar");
+                
                 Console.ReadKey();
                 break;
             case 4:

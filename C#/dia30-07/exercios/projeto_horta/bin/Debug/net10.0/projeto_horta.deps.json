@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "projeto_horta/1.0.0": {
+        "runtime": {
+          "projeto_horta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projeto_horta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
