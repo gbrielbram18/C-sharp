@@ -10,8 +10,7 @@ class ContaBancaria{
     public int saque;
     public int mostrasaldo;
     
-
-
+    
     public void Titular(){
 
         if(titular=="aldalberto" ){
@@ -23,6 +22,7 @@ class ContaBancaria{
             Console.WriteLine("vc nao e o adalberto");
         }
     }
+
 
     public void Numero(){
           if(numero == 0001){
@@ -41,20 +41,22 @@ class ContaBancaria{
 
 
 
-public void Depositar(){
-    Console.WriteLine($"seu deposito e de: R$ {depositar}");
+    public void Depositar(){
 
-}
-public void Saque(){
-    Console.WriteLine($"seu saque e de: R$ {depositar + saldo - saque}");
+        Console.WriteLine($"seu deposito e de: R$ {depositar}");
 
-}
-public void MostrarSaldo(){
-Console.WriteLine($"o seu saldo atual é: R$ {mostrasaldo}");
+    }
 
-}
+    public void Saque(){
 
+        Console.WriteLine($"seu saque e de: R$ {depositar + saldo - saque}");
 
+    }
 
+    public void MostrarSaldo(){
+        Console.WriteLine($"o seu saldo atual é: R$ {mostrasaldo}");
+
+    }
+    
 }
 
