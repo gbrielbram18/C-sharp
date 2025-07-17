@@ -1,0 +1,5 @@
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\paa\obj\Debug\net10.0\paa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\paa\obj\Debug\net10.0\paa.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\paa\obj\Debug\net10.0\paa.AssemblyInfo.cs
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\paa\obj\Debug\net10.0\paa.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\paa\obj\Debug\net10.0\paa.sourcelink.json

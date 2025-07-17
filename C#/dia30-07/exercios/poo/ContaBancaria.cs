@@ -22,7 +22,7 @@ class ContaBancaria{
             Console.WriteLine("vc nao e o adalberto");
         }
     }
-
+        
 
     public void Numero(){
           if(numero == 0001){
@@ -59,4 +59,7 @@ class ContaBancaria{
     }
     
 }
+
+
+
 
