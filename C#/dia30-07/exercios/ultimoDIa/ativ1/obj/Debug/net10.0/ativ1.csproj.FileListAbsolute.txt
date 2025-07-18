@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\ultimoDIa\ativ1\bin\Debug\net10.0\ativ1.exe
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\ultimoDIa\ativ1\bin\Debug\net10.0\ativ1.deps.json
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\ultimoDIa\ativ1\bin\Debug\net10.0\ativ1.runtimeconfig.json
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\ultimoDIa\ativ1\bin\Debug\net10.0\ativ1.dll
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\ultimoDIa\ativ1\bin\Debug\net10.0\ativ1.pdb
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\ultimoDIa\ativ1\obj\Debug\net10.0\ativ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\ultimoDIa\ativ1\obj\Debug\net10.0\ativ1.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\ultimoDIa\ativ1\obj\Debug\net10.0\ativ1.AssemblyInfo.cs
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\ultimoDIa\ativ1\obj\Debug\net10.0\ativ1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\ultimoDIa\ativ1\obj\Debug\net10.0\ativ1.sourcelink.json
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\ultimoDIa\ativ1\obj\Debug\net10.0\ativ1.dll
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\ultimoDIa\ativ1\obj\Debug\net10.0\refint\ativ1.dll
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\ultimoDIa\ativ1\obj\Debug\net10.0\ativ1.pdb
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\ultimoDIa\ativ1\obj\Debug\net10.0\ativ1.genruntimeconfig.cache
+C:\Users\Aluno\Documents\C-sharp\C-sharp\C#\dia30-07\exercios\ultimoDIa\ativ1\obj\Debug\net10.0\ref\ativ1.dll
